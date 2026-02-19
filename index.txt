@@ -1,4 +1,8 @@
 Meu primeiro projeto versionado 
 
+<<<<<<< HEAD
 davizinho!
 
+=======
+davizinho!
+>>>>>>> 4140fd8a2207a81463e7441c350430046e4bed9f
