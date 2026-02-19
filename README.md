@@ -1,2 +1,6 @@
 Amo meu papai
-e minha família!
+
+E a minha família;
+E os meus amigos;
+E o meu trabalho;
+E a minha futura profissão!
